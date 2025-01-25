@@ -1,0 +1,11 @@
+
+===> Epoch 50 Complete: Avg. Training Loss: 5.5816e-03,  Avg. Test Loss: 6.4865e-03
+===> Epoch 100 Complete: Avg. Training Loss: 4.8247e-03,  Avg. Test Loss: 6.9175e-03
+===> Epoch 150 Complete: Avg. Training Loss: 4.2301e-03,  Avg. Test Loss: 7.5028e-03
+===> Epoch 200 Complete: Avg. Training Loss: 3.8479e-03,  Avg. Test Loss: 8.1312e-03
+===> Epoch 250 Complete: Avg. Training Loss: 3.3926e-03,  Avg. Test Loss: 8.3723e-03
+===> Epoch 300 Complete: Avg. Training Loss: 3.3303e-03,  Avg. Test Loss: 8.5093e-03
+===> Epoch 350 Complete: Avg. Training Loss: 3.2820e-03,  Avg. Test Loss: 8.6389e-03
+===> Epoch 400 Complete: Avg. Training Loss: 3.2412e-03,  Avg. Test Loss: 8.6490e-03
+===> Epoch 450 Complete: Avg. Training Loss: 3.1986e-03,  Avg. Test Loss: 8.6786e-03
+===> Epoch 500 Complete: Avg. Training Loss: 3.1939e-03,  Avg. Test Loss: 8.7025e-03

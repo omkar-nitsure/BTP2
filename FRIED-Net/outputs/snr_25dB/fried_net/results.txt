@@ -1,0 +1,4 @@
+
+===> Epoch 50 Complete: Avg. Training Loss: 3.4024e-02,  Avg. Test Loss: 3.7096e-02
+===> Epoch 100 Complete: Avg. Training Loss: 4.0253e-02,  Avg. Test Loss: 2.6934e-02
+===> Epoch 150 Complete: Avg. Training Loss: 3.4098e-02,  Avg. Test Loss: 2.7665e-02
